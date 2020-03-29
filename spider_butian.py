@@ -43,7 +43,7 @@ def Url():
         'Accept-Encoding': 'gzip, deflate',
         'Connection': 'close',
         'Referer':'https://www.butian.net/Reward/plan',
-        'Cookie': 'PHPSESSID=qhe8gi9c065vsldmqe9sg028k2; __q__=1585332853966',
+        'Cookie': 'PHPSESSID=???; __q__=???',
         'Upgrade-Insecure-Requests': '1',
         'Cache-Control':'max-age=0'
     }
